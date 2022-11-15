@@ -1,0 +1,16 @@
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\domain\entity\PlayerEntity.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\converter\PlayerEntityToGameDetailResponseDTO.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\presentation\rest\request\DropBombDTO.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\data\repository\GameRepository.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\presentation\rest\response\GameDetailResponseDTO.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\data\model\GameModel.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\presentation\rest\request\MovePlayerDTO.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\presentation\rest\response\GameResponseDTO.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\converter\GameModelToGameEntity.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\data\repository\PlayerRepository.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\domain\entity\GameEntity.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\utils\MapUtils.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\presentation\rest\request\CreateGameDTO.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\domain\service\GameService.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\presentation\rest\GameResource.java
+C:\Users\Samuel\OneDrive\Desktop\Test\JAVA\samuel.fouchard-jws-2024\src\main\java\fr\epita\assistant\jws\data\model\PlayerModel.java

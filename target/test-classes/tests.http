@@ -1,0 +1,40 @@
+POST localhost:8082/games
+Content-Type: application/json
+
+{
+  "name": "TOTO"
+}
+
+###
+
+POST localhost:8082/games/1
+Content-Type: application/json
+
+{
+  "name": "Sam"
+}
+
+###
+
+GET localhost:8082/games
+Content-Type: application/json
+
+###
+
+GET localhost:8082/games/1
+Content-Type: application/json
+
+###
+
+PATCH localhost:8082/games/1/start
+Content-Type: application/json
+
+###
+
+POST localhost:8082/games/1/players/1/move
+Content-Type: application/json
+
+{
+  "posX": 2,
+  "posY": 1
+}
